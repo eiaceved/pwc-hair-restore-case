@@ -1,0 +1,582 @@
+[
+ {
+  "hash": "f5932d59ced0c0a035b5de18a56c7fffb80f546c",
+  "text": "How this case works"
+ },
+ {
+  "hash": "97709f49bb160433dc73ca48d3a2872e711ade2d",
+  "text": "Strategy& is PwC's strategy consulting business. This is a go or no-go case: should a company launch a product it has already spent years developing? The key skill is turning a big headline number into a realistic one by multiplying probabilities."
+ },
+ {
+  "hash": "2875d4cfb35574a541a73842a606a050d52a4261",
+  "text": "It comes from a public mock interview video. The prompt, the probabilities, and the main math follow the video. This page adds a launch cost and a sunk-cost check so the go or no-go decision can be tested, plus calculators, drills, and a practice test."
+ },
+ {
+  "hash": "0df76324d13f5d336f7b7673be57910edf67b361",
+  "text": "The one idea: multiply the stages"
+ },
+ {
+  "hash": "0319a1d55b19ebb87cec3b2bfd386e501e8993d4",
+  "text": "PROBABILITY CHAINS"
+ },
+ {
+  "hash": "409a3172d7af951a82798531be9ba569832de5a3",
+  "text": "If 80 percent pass stage 1 and 30 percent of those pass stage 2, 24 percent pass both: 80 percent times 30 percent."
+ },
+ {
+  "hash": "9ef4b24484f5850dccb14de8c468d280134abb91",
+  "text": "Multiply every stage to get the share that makes it to the end."
+ },
+ {
+  "hash": "478507be39c21b295fdc695544b574755f2ac2fc",
+  "text": "Then multiply the best-case value by that share to get the expected value."
+ },
+ {
+  "hash": "b75ce3c42430b6f47442ae190a4c22d4cb16e964",
+  "text": "What the interviewer flagged in the video"
+ },
+ {
+  "hash": "1b5ec5ef471754f4c4e0dc6efc2da18786d650d9",
+  "text": "FEEDBACK WORTH COPYING"
+ },
+ {
+  "hash": "9c0b25c1f9b326473323174a61d661b05e50819a",
+  "text": "Start outside-in: market size, whether women will buy it, competitors, and customer groups."
+ },
+ {
+  "hash": "78f8efe9404df5657b620ac5b9f3dd9fafe0993b",
+  "text": "Organize your brainstorm into buckets. A long list of data requests is hard to follow."
+ },
+ {
+  "hash": "2aab46c50c4b1b4e554f8fb75ee7e8087af20d53",
+  "text": "Look for shortcuts: 7.2 percent is 80 percent of 9 percent."
+ },
+ {
+  "hash": "adeef7787027e3b8243e2cebbc47981086e03a03",
+  "text": "Think about time: use present value or break-even, not one year's profit."
+ },
+ {
+  "hash": "3449bc4a71e0870e30f9e1582b1c07cbb41d06ae",
+  "text": "THE SHAPE OF THIS CASE"
+ },
+ {
+  "hash": "c7c579d0c98af13a476b3e060d031ecb0fa150dd",
+  "text": "Structure What decides profit?"
+ },
+ {
+  "hash": "b1b19bb8a4b8b854591bac4ceb78f750209105da",
+  "text": "Value What's it really worth?"
+ },
+ {
+  "hash": "c911c52ff3b89b862efefc65053f3a7ade853cc5",
+  "text": "Compare The second product"
+ },
+ {
+  "hash": "f49e66e75969ed6898c29f0094b525f95add1f37",
+  "text": "Decide Go or no-go, and next steps"
+ },
+ {
+  "hash": "ac52d8d3b7159a442cfdfe8dcbca6446ceb5802f",
+  "text": "Lots of percentages. Keep them organized and say each one out loud."
+ },
+ {
+  "hash": "180328a92268887db4921adaac86d08af33c5103",
+  "text": "TEN TERMS TO DROP NATURALLY"
+ },
+ {
+  "hash": "252823769fa83596f5f3df210033ca7a4fd5c68e",
+  "text": "Legal protection that stops others from copying a drug for a set time. While it lasts, the company can charge more."
+ },
+ {
+  "hash": "fb3f12618921f6a5d9f370122ae422478c1f4ec8",
+  "text": "When the patent ends, cheaper copies called generics can enter, and prices and sales usually fall fast."
+ },
+ {
+  "hash": "36eee2adb6208a1b72632b1bdd7bcde012ab7206",
+  "text": "The US agency that has to approve a drug before it can be sold."
+ },
+ {
+  "hash": "b4daf7622e9f9040f181be7663ca0cea02c6fb9f",
+  "text": "Everyone who could use the product. Here, women experiencing hair loss."
+ },
+ {
+  "hash": "a4aae0419de6c66c850553823803aee8a6d6ade9",
+  "text": "Future money expressed in today's dollars. A dollar years from now is worth less than a dollar today."
+ },
+ {
+  "hash": "187fb6c237d3ee201dec94d54f7eca0c70e6ea5f",
+  "text": "Net present value: the present value of future profits minus what you invest. Positive means the investment creates value."
+ },
+ {
+  "hash": "e4e5428a3fa45b7762355e5d8015144d67f6ed62",
+  "text": "The best-case value times the chance of getting it. Also called a probability-weighted value."
+ },
+ {
+  "hash": "f436da7a75e9c1a2713cc73386555ce6d1032e34",
+  "text": "Money already spent that you can't get back. It shouldn't affect a decision about the future."
+ },
+ {
+  "hash": "f65deccc5a2c3843d7b1232c23610d7a750c6cf5",
+  "text": "When a company's new product takes sales from its own existing product."
+ },
+ {
+  "hash": "523ac367af343370923af087adeb9082a98c82c9",
+  "text": "The point where value exactly covers cost. Here, the success rate at which launching just pays off."
+ },
+ {
+  "hash": "5897d588b37d475d6785a1e68e72448746fd0b14",
+  "text": "The case prompt"
+ },
+ {
+  "hash": "e6fc941feab6373a8cb8bdac9c549e7422b71752",
+  "text": "Our client is HealthTech, a US pharmaceutical company. It has developed a treatment for female hair loss and balding called Hair Restore, and management is deciding whether to roll it out in the US."
+ },
+ {
+  "hash": "b6fd9a6ed809b32e3cb9afcc4bb4a3fae22243f8",
+  "text": "The market is large. In some age groups, two-thirds of women say they've experienced hair loss; in others, about a third. But Hair Restore went through a long, delayed testing process with the FDA, and as a result it will lose its patent just a few years after launch."
+ },
+ {
+  "hash": "285e546e1ca8162d579da833f14a2391254dce46",
+  "text": "Two questions. First, how would you determine whether Hair Restore will be profitable? Second, after all your considerations, should HealthTech go ahead?"
+ },
+ {
+  "hash": "fd6b9a72cdeb88f2284e9a39081ac2b134e6bf03",
+  "text": "Restate the question in one sentence before you do anything else."
+ },
+ {
+  "hash": "bbc8818c3bbc083e80f6e088ca51d66f1b57b193",
+  "text": "\"So HealthTech has a new treatment for female hair loss with a big potential market, but only a few years of patent protection left. We need to work out how to judge whether it'll be profitable, and then recommend whether to launch it. Is that right?\""
+ },
+ {
+  "hash": "c516c2835078bec891f6298a59909b126d2f72da",
+  "text": "Interviewer: \"Yes.\" Naming the tension up front, big market but short patent, shows you've spotted what makes this case hard."
+ },
+ {
+  "hash": "8e6d2ad9575dc9f3cfc886c2260b8fefc6fde36e",
+  "text": "Clarifying questions"
+ },
+ {
+  "hash": "cf40a0f2f5aaee7152d7c02c95d4ee459e4dc68e",
+  "text": "Ask two or three clarifying questions. Pick ones whose answers would change your approach."
+ },
+ {
+  "hash": "403ebc2a2ae075cc7d129d187429b8db5e9a5d7a",
+  "text": "Is it only for women, and only for balding? Women only. It treats hair loss, including thinning. From the video."
+ },
+ {
+  "hash": "c1bdb3816fc0e3fffa938243d4163aea86810bc7",
+  "text": "Are there competitors? None today. From the video."
+ },
+ {
+  "hash": "950e0678bcdd3f4fa9f73f35fc410b385692be65",
+  "text": "How long will the patent last after launch? Only a few years. Assume about three to five. From the video."
+ },
+ {
+  "hash": "968bf818c8952f36957aaeddbd79216194c23d87",
+  "text": "How much has HealthTech spent so far? About 400 million dollars on development and testing. Added for practice."
+ },
+ {
+  "hash": "da876883826d2f6cd12246e8b535e5171a40ac9f",
+  "text": "The last question is a trap worth knowing. Money already spent is a sunk cost: it's gone whether or not HealthTech launches, so it shouldn't drive the decision."
+ },
+ {
+  "hash": "5c1d378cfc64d50c7f119b2c2db5a1f3712a570a",
+  "text": "Build the framework"
+ },
+ {
+  "hash": "2a92f42e0eaee1c4877be916e04c0769290c1530",
+  "text": "How would you determine whether Hair Restore will be profitable?"
+ },
+ {
+  "hash": "54d8d83a625297c11fae0925c821fbe1840705e6",
+  "text": "Take 60 seconds to sketch your buckets. Start outside-in, with the market, then the economics."
+ },
+ {
+  "hash": "99168f3115c94db6540e58348ca5da8fc727702d",
+  "text": "How many women, by age group"
+ },
+ {
+  "hash": "ec047fb5968f7a51a2688b61cf36c52af6e9880c",
+  "text": "Share who'd seek treatment and pay"
+ },
+ {
+  "hash": "d0ac12a0ac92014444da482497379b1f8035887d",
+  "text": "Competitors and substitutes"
+ },
+ {
+  "hash": "95ffa7021fbb5658d46bf8b4ac8d632f4d53d3a7",
+  "text": "Patients \u00d7 price \u00d7 how often they buy"
+ },
+ {
+  "hash": "e2c1f89df09869e33abad23a0708757b6aa84883",
+  "text": "How many it works for and who stay on"
+ },
+ {
+  "hash": "d52e3b5478ad05d24f85a6cdbc63e0b6292af9e7",
+  "text": "Insurance coverage"
+ },
+ {
+  "hash": "14daaa0b33ac9ce094a5181a5c7dc8ca2dcb1b4e",
+  "text": "Launch: factories, distribution, sales"
+ },
+ {
+  "hash": "29f48ab0c39b8b2090a2edd3a28b0977b05b4004",
+  "text": "Ongoing cost to make it"
+ },
+ {
+  "hash": "8fa963169cd241429e423a571f06c1143e9d5d1e",
+  "text": "Already spent on testing: sunk"
+ },
+ {
+  "hash": "d02883458cc050d1e091b214ed2b61f2982523c1",
+  "text": "Patent cliff: value over time, not one year"
+ },
+ {
+  "hash": "ccc1374557d7e4bd6a031cb3504341860006f88b",
+  "text": "FDA conditions and side effects"
+ },
+ {
+  "hash": "d0f8ac425fd8e5ca6decd84d31582f76ff41d48e",
+  "text": "Brand impact either way"
+ },
+ {
+  "hash": "891f8b94c7459a349db8c3dbeedf17e43b709565",
+  "text": "Say it like this"
+ },
+ {
+  "hash": "86c1a2e4ed3d08cd0b130285cfa8a3e766c4e750",
+  "text": "\"I'd look at four things. First, the market: how many women have hair loss, how many would seek treatment and pay for it, and whether there are competitors or substitutes. Second, revenue: number of patients times price times how often they buy, adjusted for how many it actually works for. Third, costs: what it takes to launch and make the product, setting aside what's already been spent, since that's sunk. Fourth, timing and risk: with the patent running out in a few years, I'd judge it on present value, or how fast it breaks even, rather than one year of profit.\""
+ },
+ {
+  "hash": "2e4580536b0f2359910adb76e50ba348f206ca0a",
+  "text": "Why it works"
+ },
+ {
+  "hash": "ccb1713ef01028d40d2e6b2be789d5b577e5c650",
+  "text": "It starts with the market, which the interviewer in the video said was missing."
+ },
+ {
+  "hash": "8fcfc2660b63ba75f4502288ea0dfc3120184116",
+  "text": "It flags the sunk cost early, so it won't trip you up later."
+ },
+ {
+  "hash": "73f34ce253a061bd64d97ee0eb723d6fb0131cc9",
+  "text": "It puts the patent cliff where it belongs: in how you value the product over time."
+ },
+ {
+  "hash": "6cb44de7ec30cec90135a62c61c8e4f0f3cbce66",
+  "text": "What is Hair Restore really worth?"
+ },
+ {
+  "hash": "6ff4c1ab9364c215e74b41e60b8874659c9fee22",
+  "text": "Our team estimates the present value of all future profits, including the drop after the patent runs out, at 3 billion dollars. But that assumes every patient who starts treatment stays on it, and it won't work for everybody."
+ },
+ {
+  "hash": "9260c1c8f1e5bbf66501cca7523b45191b748ad0",
+  "text": "Treatment runs in four phases. At each phase, only some patients see enough results to continue. What's the probability-weighted value?"
+ },
+ {
+  "hash": "aefe14a56ac65105f61c522abebc0f41c28ad151",
+  "text": "The $3B and the four rates are from the video. *The launch cost is added for practice, so the go or no-go decision can be tested. Each rate is the share of the previous phase's patients who continue."
+ },
+ {
+  "hash": "ab1b7c037c4c2040ee18a2ab6f74622742f56b26",
+  "text": "Multiply the four rates to get the share who make it all the way through. Then apply it to the 3 billion dollars, and compare with the launch cost."
+ },
+ {
+  "hash": "cd6c6060cf3d3d59c75ebf71637ab2b26183f48a",
+  "text": "Start with 100 patients. 80 continue after phase 1. 30 percent of those 80 continue after phase 2. Keep going one phase at a time, and you'll end with the number who finish all four."
+ },
+ {
+  "hash": "859b87daf149c357968f0e39db75a22dfef82741",
+  "text": "1 \u00b7 Through phase 2 80% \u00d7 30% 24%"
+ },
+ {
+  "hash": "86c524b95955150d418fa178cdf55badaaa4ca37",
+  "text": "2 \u00b7 Through phase 3 24% \u00d7 50% 12%"
+ },
+ {
+  "hash": "040e46d3d279f01a9ea17f23dc48bc6044d79048",
+  "text": "3 \u00b7 Through phase 4 12% \u00d7 75% 9%"
+ },
+ {
+  "hash": "bfa0846637ffcd71a3a469ca55a2a1c53bcace2c",
+  "text": "4 \u00b7 Expected value 9% \u00d7 $3B. Shortcut: $300M \u2212 $30M $270M"
+ },
+ {
+  "hash": "e3a59c262b19899c09b9f56bb14b79c764dc5700",
+  "text": "5 \u00b7 After launch cost $270M \u2212 $150M +$120M"
+ },
+ {
+  "hash": "5340cadc238103688a1aafee6cae75f180bb27fd",
+  "text": "6 \u00b7 Break-even $150M \u00f7 $3B: needs 5% to finish; expected 9% 5%"
+ },
+ {
+  "hash": "f3e214712fcb956da1d4e544fd09e1485414fa0a",
+  "text": "Phase 2 is where most patients drop out. Only 9 in 100 finish all four phases."
+ },
+ {
+  "hash": "2b2747ee0c969479ebb1d64d44b07a7ca6d289a0",
+  "text": "Quick check: HealthTech has already spent about 400 million dollars on testing. Should that change the decision?"
+ },
+ {
+  "hash": "ca3730a64a909ecdc0763eb822b97a8f24e8900b",
+  "text": "The 400 million is gone whether HealthTech launches or not. The real choice is: spend 150 million more to get an expected 270 million, or don't. That's a yes. Everyday version: if you paid 20 dollars for a concert ticket and then feel sick, the 20 dollars is gone either way. Decide based on whether going is worth it now."
+ },
+ {
+  "hash": "021d5cd7dc3e08c422f496a7c56cd647acfe8c49",
+  "text": "Exhibit 2: the second product"
+ },
+ {
+  "hash": "66edd89caf294662aa84bd25c0cfcab062763b7c",
+  "text": "Management is also developing an alternative product with the same goal, restoring hair for women. The good news is that it would have longer patent protection. Early estimates of its four phase rates are in this exhibit. What insights can you draw?"
+ },
+ {
+  "hash": "71fe31b8354f3522a41e0d7d0d7847e48dda48e2",
+  "text": "Management values the alternative at about $3B too, if every patient stays on. It would launch later, but its longer patent makes up for that. From the video."
+ },
+ {
+  "hash": "353135acc0ea1566a8679dea865da69053e8d735",
+  "text": "Say what you notice about the pattern first. Then multiply, and compare with Hair Restore using a shortcut."
+ },
+ {
+  "hash": "f0a1ab5ccc77197ecf0bb6bd8144aa8933427e6f",
+  "text": "1 \u00b7 The pattern Steadier rates, no big drop. Multiply to compare ?"
+ },
+ {
+  "hash": "f27a3c9102b1ca2d6721a0cdf6e6efe84dc4bc4b",
+  "text": "2 \u00b7 Through phase 3 60% \u00d7 50% \u00d7 40% 12%"
+ },
+ {
+  "hash": "8ae51953f836c4181a26851a588d047310e93eac",
+  "text": "3 \u00b7 Through phase 4 12% \u00d7 60% 7.2%"
+ },
+ {
+  "hash": "364fa09ead68dbfe7ac3a6e31fb76a68e4015d38",
+  "text": "4 \u00b7 Expected value 7.2% \u00f7 9% = 80%, so 80% \u00d7 $270M $216M"
+ },
+ {
+  "hash": "60db5cd7f67fcb3d0a789b7985177eeddc0a1163",
+  "text": "5 \u00b7 Where the gap is Both at 12% after phase 3. Phase 4: 75% vs. 60% Phase 4"
+ },
+ {
+  "hash": "ac2454d75bcb54b005b299cc435b7f0fe1bdd5f6",
+  "text": "6 \u00b7 So what A follow-on, not a replacement. Watch cannibalization \u2713"
+ },
+ {
+  "hash": "d397ee57e55dd865ab06f86f308fca5e68043497",
+  "text": "Same $3B ceiling, different odds. The alternative is worth about 80% of Hair Restore."
+ },
+ {
+  "hash": "b25a48de382e81fd984b6295c8965680349e6ec0",
+  "text": "Should HealthTech drop Hair Restore and back the alternative instead?"
+ },
+ {
+  "hash": "7dd1e42700b77b1ff95010573b19db3e62c5bb1d",
+  "text": "Hair Restore is worth 270 million against 216 million, and it can launch now. The alternative's longer patent is valuable later, when Hair Restore faces cheaper copies. In the video, the candidate makes the same call: never do the second one instead of the first."
+ },
+ {
+  "hash": "da84bcb91bdc4f975842a29dc46a218bb1362757",
+  "text": "How much better must phase 4 get?"
+ },
+ {
+  "hash": "765d4ed21038ee7cd4a4c573a9d32c94e88959df",
+  "text": "HealthTech is considering an investment that would raise the alternative's phase 4 rate, for example a patient-support program. How high would phase 4 have to go for the alternative to be worth as much as Hair Restore, 270 million?"
+ },
+ {
+  "hash": "236c23b1f83c4c21764b67d1f65636221b981be0",
+  "text": "Work backward. What overall rate do you need, and what share is left after phase 3?"
+ },
+ {
+  "hash": "2e6a71b0c5eaa5869a158ec139b82b8919a430e5",
+  "text": "To be worth 270 million, the alternative needs the same 9 percent overall as Hair Restore. After three phases it's at 12 percent. So 12 percent times what equals 9 percent?"
+ },
+ {
+  "hash": "c74a207a823fcd93da404d3bd322e09985cda9f2",
+  "text": "1 \u00b7 Target $270M \u00f7 $3B 9%"
+ },
+ {
+  "hash": "1b1ab3b5bc49e6ef8591aa4dd8c561a2e26795a1",
+  "text": "2 \u00b7 After phase 3 60% \u00d7 50% \u00d7 40% 12%"
+ },
+ {
+  "hash": "f175de14386b44272f1280c0b3079e055502abca",
+  "text": "3 \u00b7 Phase 4 needed 9% \u00f7 12% = 3/4 75%"
+ },
+ {
+  "hash": "03de058ad76ad16ba6c3b37d66113765d629f5c9",
+  "text": "4 \u00b7 The jump 60% \u2192 75%: +15 points, or 25% more +15 pts"
+ },
+ {
+  "hash": "75dc9a82473bd0e9a25ebeda167bde1d32ac36e8",
+  "text": "5 \u00b7 Check 12% \u00d7 75% = 9% \u2192 $270M \u2713"
+ },
+ {
+  "hash": "d7480aa67b9e500c48b12b228946e5c276b055d2",
+  "text": "6 \u00b7 Most it's worth paying $270M \u2212 $216M $54M"
+ },
+ {
+  "hash": "1aede1a1a7179d952b85bf11fb89a718f96c296c",
+  "text": "Quick check: is going from 60 to 75 percent a 15 percent increase?"
+ },
+ {
+  "hash": "2c70d4a45cd3178135e44d1e133aa60cf1e7e259",
+  "text": "Percentage points measure the gap between two percentages. Percent change measures it relative to where you started. Interviewers notice when you mix them up. In the video, the candidate gets this right: a 15 point increase, or 25 percent."
+ },
+ {
+  "hash": "09c06762b843fd24486564dde39cf42da17b99da",
+  "text": "Probability chain calculator"
+ },
+ {
+  "hash": "49a7300ce7cb5614c1f84ab5b659d6301239ce39",
+  "text": "Starts with the case numbers. Change any phase rate to see how the value moves."
+ },
+ {
+  "hash": "e5dd316077e48e2de64aabc8d7218e9d59dcdba8",
+  "text": "Score the launch risks"
+ },
+ {
+  "hash": "cdbd9c9ce124980e9fd1267b3bbf32109ec24519",
+  "text": "The 270 million is an estimate. Here are six things that could make it wrong. Score each for likelihood and impact. Which three should HealthTech manage first?"
+ },
+ {
+  "hash": "8f9226d2308946e5f1058ed7f9e3cfcab6bb35ce",
+  "text": "Your dots appear here as you score each risk."
+ },
+ {
+  "hash": "ac0c8b91dbe4f5417af13f174c932cf546a9de50",
+  "text": "Pick L (likelihood) and I (impact): 1 is low, 5 is high."
+ },
+ {
+  "hash": "3cfced29667347a2e79b97d5dfcf7a7ae4ac4808",
+  "text": "Score all six to see your top three."
+ },
+ {
+  "hash": "7ecd0267fcc8b747a6a59738fed833770568bf68",
+  "text": "Score = likelihood \u00d7 impact. Scores are yours to set."
+ },
+ {
+  "hash": "2bf0e2fada279bb153feef6fd947920fc8baf593",
+  "text": "Score each risk out loud with a one-line reason, then name your top three and how you'd manage each."
+ },
+ {
+  "hash": "891f8b94c7459a349db8c3dbeedf17e43b709565",
+  "text": "Say it like this"
+ },
+ {
+  "hash": "fbc234373bf740f9c5ce448f9d775f32e017c2e8",
+  "text": "\"I'd manage three risks first. Insurance coverage, because if insurers treat this as cosmetic, patients pay full price and fewer start, so we should build the case for coverage now. Adoption, because the whole estimate depends on women choosing it, so we should test demand and pricing before scaling production. And launch delays, because every month we slip is a month of patent protection lost, so the launch plan needs to run on a tight timeline.\""
+ },
+ {
+  "hash": "e384f9f7d0838bb158b1bf92f6497fe11cdb2928",
+  "text": "The recommendation"
+ },
+ {
+  "hash": "b85e2daa986556f39c8018dd2b2f226bc74d97f1",
+  "text": "Our client is ready for a final recommendation. Should HealthTech go ahead?"
+ },
+ {
+  "hash": "1f79adeaeea78bfefadaec97e506ab2cee4b57bd",
+  "text": "Lead with the answer. Then the reasons, the main risk, and next steps."
+ },
+ {
+  "hash": "f06318f45ded72ecb4d06066de5c5d7cc1c93948",
+  "text": "\"Yes, go ahead. Even after weighting for how many patients it works for, Hair Restore is worth about 270 million dollars, and even at half that, it's a lot of money. The main risk is that the market doesn't adopt it as expected. Next steps: make sure everything is final with the FDA, invest in sales to get it to market, and keep developing the second product.\""
+ },
+ {
+  "hash": "7663054a93a054492a444209b6094b1e9fdae4a0",
+  "text": "\"Launch Hair Restore now. Only 9 percent of patients make it through all four phases, but that still makes it worth about 270 million, against 150 million to launch, so it creates about 120 million of value. It pays off as long as 5 percent finish, so there's a cushion. The 400 million already spent is sunk and doesn't change the answer.\""
+ },
+ {
+  "hash": "168458972a13b5d3658c5eb68665db76e56d2188",
+  "text": "\"Speed matters, because every month of delay costs patent protection. Keep developing the alternative as the follow-on for when Hair Restore loses its patent, rather than launching both at once, and only fund the phase 4 program if it costs less than about 54 million. The main risks are insurance coverage and adoption. Next steps: build the case for coverage, test demand and pricing, and set up patient support in phase 2, where most patients drop out.\""
+ },
+ {
+  "hash": "dc43f18570727f234b18e852be50a66b1353d8f2",
+  "text": "The good answer gets the decision right. The better answer adds the three things the video's feedback asked for: timing, a clear decision rule, and a link back to the market."
+ },
+ {
+  "hash": "d082fc96ca551e79883dac0562848348692446c5",
+  "text": "Bonus drills: find the biggest lever"
+ },
+ {
+  "hash": "dc7b02a70448c74b7df246b4df34a072cc49a2b0",
+  "text": "Short reps on the kind of follow-up a strategy interviewer loves."
+ },
+ {
+  "hash": "8808bc35cd14f44f6d747f48eeccfb0df2050a92",
+  "text": "Which phase is worth improving most?"
+ },
+ {
+  "hash": "9749565607faefb3fc0039e4157adc5d93740441",
+  "text": "If HealthTech could raise one of Hair Restore's four phase rates by 1 percentage point, which phase is worth the most?"
+ },
+ {
+  "hash": "09c1d9e21f7b0955c5776abb188bc37803d7e5d2",
+  "text": "For each phase, multiply the other three rates together. That's what one extra point on that phase is worth."
+ },
+ {
+  "hash": "49c25082ef7ffc72b6fe93bf5cca2375da6c5f1d",
+  "text": "Phase 1 30% \u00d7 50% \u00d7 75% \u2248 11%, so 1 pt \u2248 $3.4M $3.4M"
+ },
+ {
+  "hash": "bb8563c0b4edcc12c14ca48907979e4e60ab0949",
+  "text": "Phase 2 80% \u00d7 50% \u00d7 75% = 30%, so 1 pt \u2248 $9M $9.0M"
+ },
+ {
+  "hash": "8b6ca2ec45e53b7485153ca3b79132c8510314e6",
+  "text": "Phase 3 80% \u00d7 30% \u00d7 75% = 18%, so 1 pt \u2248 $5.4M $5.4M"
+ },
+ {
+  "hash": "2cdeb59d70063f2419b8934dac928e814ca66425",
+  "text": "Phase 4 80% \u00d7 30% \u00d7 50% = 12%, so 1 pt \u2248 $3.6M $3.6M"
+ },
+ {
+  "hash": "e0d3d8a7df6e7abb24dec299d707ecec0e19ccea",
+  "text": "So what Fix the weakest phase first Phase 2"
+ },
+ {
+  "hash": "63481c81bec40d9ad56a5a8b7900f81e7847c39d",
+  "text": "Quick reps"
+ },
+ {
+  "hash": "318daeb3360cc7629421e408692543a8811598c7",
+  "text": "1. Why multiply the phase rates instead of averaging them?"
+ },
+ {
+  "hash": "6d9676aec81e31f159ff9a0937abd941c3ea2f25",
+  "text": "\"Because each rate applies only to the patients who passed the phase before. 30 percent of the 80 who passed phase 1 is 24, not an average of 80 and 30.\""
+ },
+ {
+  "hash": "89f287ff4669d71a4621e9faf52d27bfd3ae8b6d",
+  "text": "2. Why judge this on present value instead of next year's profit?"
+ },
+ {
+  "hash": "9062a4e8e8bd4ce6f3f41ab20fa93cc1149c2995",
+  "text": "\"The costs come up front and the profits arrive over several years, then drop when the patent ends. Only a multi-year view, in today's dollars, captures that.\""
+ },
+ {
+  "hash": "4068ec7c23c43fed5c73a5ad389b04e49651b84f",
+  "text": "3. What happens to sales when a drug goes off patent?"
+ },
+ {
+  "hash": "6798badef4acac2c7687005dfa7415d106e544ca",
+  "text": "\"Cheaper copies called generics can enter, so prices and sales usually fall quickly. That's why a short patent window makes speed to market so valuable.\""
+ },
+ {
+  "hash": "73aa81fc023d3a5f70952f0c13b7a770339335b5",
+  "text": "4. The value estimate is cut in half. Should HealthTech still launch?"
+ },
+ {
+  "hash": "1974bbca24b57af87c387d7b9468cec912b87ff6",
+  "text": "\"Barely. Half of 270 million is 135 million, just below the 150 million launch cost. That's why the break-even rate, 5 percent, is a useful line to watch.\""
+ },
+ {
+  "hash": "0eda8d77e34cad93e11bc25b2cb5cd229ba79178",
+  "text": "Practice test"
+ },
+ {
+  "hash": "11562add98d7fd4776eebebbeea5d0bdb6835bb8",
+  "text": "Twelve multiple-choice questions on the Hair Restore case. Pick an answer to see the explanation."
+ }
+]
